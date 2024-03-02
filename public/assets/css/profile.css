@@ -1,0 +1,33 @@
+
+div{
+         
+    position:relative;
+    top:0px;
+    color:rgb(227, 215, 215);
+    background-color:rgb(153, 122, 182);
+    background-size:100px;
+    margin:0px;
+    font-size: 25px;
+    font-style:oblique;
+ }
+ span{
+    position:relative;
+    left:700px;
+    color:rgb(227, 215, 215);
+    font-size:25px;
+    font-style:italic;
+}
+h2{   
+    position:relative;
+    top:5px;
+    color:rgb(108, 47, 105);
+    background-color:rgb(225, 198, 220);
+    background-size:100px;
+    margin:0px;
+    font-size:40px;
+    font-style:inherit;
+}
+form{
+    color:blueviolet;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}

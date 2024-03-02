@@ -1,0 +1,82 @@
+div {
+    position: relative;
+    top: 0;
+    color: rgb(227, 215, 215);
+    background-color: rgb(153, 122, 182);
+    background-size: 100px;
+    margin: 0;
+    font-size: 25px;
+    font-style: italic;
+}
+
+span {
+    position: relative;
+    left: 750px;
+    color: rgb(227, 215, 215);
+    font-size: 25px;
+    font-style: italic;
+}
+
+p {
+    color: red;
+    top: 50px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    position: relative;
+    top: 5px;
+    color: rgb(76, 27, 107);
+    background-color: rgb(225, 198, 220);
+    background-size: 100px;
+    margin: 0;
+    font-size: 30px;
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(164, 106, 143);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+form {
+    position: relative;
+    top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    position: relative;
+    top: 25px;
+    color: rgb(164, 68, 148);
+    background-color: rgb(225, 198, 220);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+button {
+    height: 50px;
+    width: 150px;
+    background-color: rgb(215, 212, 193);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(153, 122, 182);
+}
+
+button.register-button {
+    height: 60px;
+    width: 350px;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+}
+
+#m1 {
+    height: 350px;
+    width: 800px;
+}

@@ -1,0 +1,30 @@
+div{
+         
+    position:relative;
+    top:0px;
+    color:rgb(227, 215, 215);
+    background-color:rgb(153, 122, 182);
+    background-size:100px;
+    margin:0px;
+    font-size: 25px;
+    font-style:oblique;
+ }
+ span{
+    position:relative;
+    left:750px;
+    color:rgb(227, 215, 215);
+    font-size:25px;
+    font-style:italic;
+}
+h2{
+     
+        position:relative;
+        top:10px;
+        color:rgb(120, 51, 133);
+        background-color:rgb(225, 198, 220);
+        background-size:100px;
+        margin:0px;
+        font-size:30px;
+        font-style:inherit;
+    
+}
